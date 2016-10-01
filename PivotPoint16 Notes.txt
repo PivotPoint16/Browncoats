@@ -1,0 +1,50 @@
+PivotPoint 2016 Notes
+
+how you can help public housing
+- Shrinking pool of potential housing options because of renter-
+heavy market
+- public housing infrastructure does not age well
+- utilities for public housing is expensive and it is a big game
+of telephone
+- very large population of homeless people and they are hard to
+keep track of. 
+- Processes are done mostly on paper due to outdated technology. 
+Difficult for tenants to get access to internet. 
+- Pre-paid phones are usually outdated. 
+
+Ideas
+- an app that runs on Android 4.0 minimum that gives tenants access
+to necessary data and make the public housing rental process
+easier. 
+- plot funding data and housing complaints data onto map using 
+Google Maps api (just Hartford CT)
+- plot funding data and homelessness data onto map using Google
+Maps api (whole country)
+
+Plan
+- Design a system that cross references Community Development Block Grant Data
+with Homelessness Data to detect potential fraudulent activity by organizations
+that receive federal loans/grants/subsidies. 
+- Data needed: 
+	- Community Development Block Grant Data
+	- Homelessness Data
+- Steps: 
+	1. Get the Google Maps API up and running
+	2. Develop Android app that implements the Maps API
+		- How to shade maps based on trends
+		- How to overlay other GUI elements (tabs, menus)
+		- How to cross-comm between R and Java
+	3. Plug in the data
+	
+Testing the Maps API with Housing Code Violation Data
+- Need ViolationRecordParser, ViolationRecord
+- VR uses LatLng to store coordinates
+- MapsActivity uses VRP to populate map by getting location data
+	
+	
+	
+	
+	
+	
+	
+	
