@@ -1,0 +1,140 @@
+2009
+"1","Acquisition","Boston",48733.36
+"2","Economic Development","Boston",233972.64
+"3","Housing","Boston",2533259.71
+"4","Other","Boston",1732097.74
+"5","Public Improvements","Boston",165180.08
+"6","Public Services","Boston",2274409.27
+"7","Acquisition","Chicago",119625.51
+"8","Economic Development","Chicago",410779.56
+"9","Housing","Chicago",18657173.74
+"10","Other","Chicago",18796
+"11","Public Improvements","Chicago",174122.4
+"12","Public Services","Chicago",20360898.87
+"13","Economic Development","Los Angeles",2409272.79
+"14","Housing","Los Angeles",3669944.77
+"15","Public Improvements","Los Angeles",21598058.51
+"16","Public Services","Los Angeles",12341006.66
+"17","Economic Development","Miami",2073816
+"18","Housing","Miami",120000
+"19","Public Improvements","Miami",388935.74
+"20","Public Services","Miami",1558951.35
+"21","Public Improvements","New York",3855198
+"22","Economic Development","San Francisco",1958783.45
+"23","Housing","San Francisco",2076720.6
+"24","Other","San Francisco",67419.98
+"25","Public Improvements","San Francisco",4734626.05
+"26","Public Services","San Francisco",6971394.22
+"27","Economic Development","Seattle",7586326.11
+"28","Housing","Seattle",71476.1
+"29","Other","Seattle",11000
+"30","Public Improvements","Seattle",7821721.19
+"31","Public Services","Seattle",572303
+"32","Economic Development","Washington",2316366.94
+"33","Housing","Washington",4769322.14
+"34","Public Improvements","Washington",7681456.68
+"35","Public Services","Washington",5254449
+2010
+"1","Economic Development","Boston",266885.45
+"2","Housing","Boston",1413294.6
+"3","Other","Boston",1670944.19
+"4","Public Improvements","Boston",10322.63
+"5","Public Services","Boston",1870262.66
+"6","Acquisition","Chicago",375527.2
+"7","Economic Development","Chicago",713815.56
+"8","Housing","Chicago",2138329.21
+"9","Public Improvements","Chicago",513807.75
+"10","Public Services","Chicago",25439115.4
+"11","Economic Development","Los Angeles",762650
+"12","Housing","Los Angeles",2089486.69
+"13","Other","Los Angeles",126884
+"14","Public Improvements","Los Angeles",3167767.97
+"15","Public Services","Los Angeles",13059231.78
+"16","Acquisition","Miami",33421.4
+"17","Economic Development","Miami",5487658.97
+"18","Housing","Miami",5009826
+"19","Public Improvements","Miami",184916.41
+"20","Public Services","Miami",2771613.43
+"21","Economic Development","San Francisco",2109028.18
+"22","Housing","San Francisco",1349880.28
+"23","Other","San Francisco",91999.79
+"24","Public Improvements","San Francisco",1603782.23
+"25","Public Services","San Francisco",7935532.17
+"26","Economic Development","Seattle",175000
+"27","Housing","Seattle",265000
+"28","Public Improvements","Seattle",889912.49
+"29","Public Services","Seattle",619219.13
+"30","Economic Development","Washington",710108.73
+"31","Public Improvements","Washington",569448.54
+"32","Public Services","Washington",972018.61
+2011
+"1","Acquisition","Boston",519453.45
+"2","Economic Development","Boston",1930450.97
+"3","Housing","Boston",1218753.55
+"4","Other","Boston",40530.13
+"5","Public Improvements","Boston",865571.37
+"6","Public Services","Boston",2094729.58
+"7","Acquisition","Chicago",275785.47
+"8","Housing","Chicago",3757377.2
+"9","Public Services","Chicago",16046547.83
+"10","Acquisition","Los Angeles",153670.82
+"11","Economic Development","Los Angeles",8814296
+"12","Housing","Los Angeles",695540.09
+"13","Other","Los Angeles",29620
+"14","Public Improvements","Los Angeles",2703857.34
+"15","Public Services","Los Angeles",28610086.45
+"16","Economic Development","Miami",748249.81
+"17","Housing","Miami",1029764.81
+"18","Public Improvements","Miami",258221
+"19","Public Services","Miami",1900362.59
+"20","Public Services","New York",660418
+"21","Economic Development","San Francisco",1772252
+"22","Housing","San Francisco",2381614.75
+"23","Other","San Francisco",236912.62
+"24","Public Improvements","San Francisco",437790.62
+"25","Public Services","San Francisco",5895898.3
+"26","Economic Development","Seattle",1324603.54
+"27","Housing","Seattle",75435
+"28","Other","Seattle",11415.76
+"29","Public Improvements","Seattle",4238523.06
+"30","Public Services","Seattle",3902847.26
+"31","Acquisition","Washington",52000
+"32","Economic Development","Washington",3697778.63
+"33","Housing","Washington",500000
+"34","Public Improvements","Washington",6153618.03
+"35","Public Services","Washington",4788965.3
+2012
+"1","Acquisition","Boston",113142.07
+"2","Economic Development","Boston",2053663.86
+"3","Housing","Boston",315285.2
+"4","Other","Boston",32726
+"5","Public Improvements","Boston",326705.94
+"6","Public Services","Boston",2207712.11
+"7","Acquisition","Chicago",2061430.83
+"8","Economic Development","Chicago",389398.17
+"9","Housing","Chicago",10827797.37
+"10","Public Services","Chicago",51060170.4
+"11","Acquisition","Los Angeles",720413.6
+"12","Economic Development","Los Angeles",2954731.31
+"13","Housing","Los Angeles",3739106.29
+"14","Public Improvements","Los Angeles",5186730.78
+"15","Public Services","Los Angeles",35688744.23
+"16","Economic Development","Miami",2580481.43
+"17","Housing","Miami",1938377.39
+"18","Other","Miami",139796.47
+"19","Public Improvements","Miami",6683822.83
+"20","Public Services","Miami",3193376.91
+"21","Economic Development","San Francisco",2886762.96
+"22","Housing","San Francisco",5558586.99
+"23","Other","San Francisco",213543.08
+"24","Public Improvements","San Francisco",1191189.63
+"25","Public Services","San Francisco",5717133.1
+"26","Economic Development","Seattle",296883.28
+"27","Housing","Seattle",987411.25
+"28","Public Improvements","Seattle",117101.99
+"29","Public Services","Seattle",582741.16
+"30","Acquisition","Washington",2469119.08
+"31","Economic Development","Washington",2149246.45
+"32","Housing","Washington",4480877.09
+"33","Public Improvements","Washington",8356352.12
+"34","Public Services","Washington",4287217.51
